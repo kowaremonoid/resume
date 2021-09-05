@@ -82,7 +82,7 @@
 **プロジェクト詳細**
 
 - YouTube 運営支援システム開発
-- AWS 上で GraphQL API、バッチの開発(Scala)
+- AWS 上で GraphQL API、バッチの開発（Scala）
 
 ### 株式会社ミスミ->株式会社コアコンセプト・テクノロジー(業務委託) (2020/07)
 
@@ -111,8 +111,8 @@
 **プロジェクト詳細**
 
 - 広告配信システムの仕様策定、設計、開発、チームビルド
-- AWS Lamda での開発(Scala)
-- GKE と Kubernetes 上での grpc を使ったマイクロサービスシステムやバッチなどの開発(Scala)
+- AWS Lamda での開発（Scala）
+- GKE と Kubernetes 上での grpc を使ったマイクロサービスシステムやバッチなどの開発（Scala）
 
 ### Biglobe ISP 事業部-> ユーエムイーネッツ(2015/4〜2017/3)
 
