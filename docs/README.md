@@ -2,29 +2,43 @@
 
 ## 基本情報
 
-| key      | value      |
-| -------- | ---------- |
-| 氏名     | 加藤琢人   |
-| 生年月日 | 1988/09/04 |
-| Zenn     |            |
-
----
+| key      | value                         |
+| -------- | ----------------------------- |
+| 氏名     | 加藤琢人                      |
+| 生年月日 | 1988/09/04                    |
+| zenn     | https://zenn.dev/kowaremonoid |
 
 ## 保有スキル
 
--
-
----
-
-## 技術スタック
-
-### 言語
-
--
+- Scala, Java, Python サーバーサイド設計・開発
+- GraphQL, grpc, REST での API 開発
+- アジャイル・スクラム開発
+- DDD
+- GCP, AWS の構築・運用
+- Kubernetes
+- MySQL, MongoDB, Oracle
 
 ### フレームワーク・その他
 
--
+#### Scala
+
+- Akka Http, ScalaPB, Sangaria, Scalike JDBC, Slick, Akka Stream, Scio, Caliban, ZIO, Cats, Scalaz, Circe
+
+#### Java
+
+- Spring MVC, Spring Boot, MyBatis
+
+#### AWS
+
+- API Gateway, Lambda, SQS, SNS, Cognito, Aurora, Athena, DynamoDB
+
+#### Python
+
+- Jupyter NoteBook, Flask
+
+#### GCP
+
+- GKE, PUB/SUB, Dataflow, Cloud Functions, BigQuery
 
 ---
 
@@ -37,7 +51,5 @@
 ### B 株式会社（2015/04〜2020/03）
 
 -
-
-## 業務外活動
 
 -
