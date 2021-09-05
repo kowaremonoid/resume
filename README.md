@@ -1,6 +1,7 @@
 # kowaremonoid resume
 
 ## Features
+[github pages](https://kowaremonoid.github.io/resume/)
 
 ### 💅 Lint text
 
