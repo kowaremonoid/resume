@@ -22,7 +22,7 @@
 
 #### Scala
 
-- Akka Http, ScalaPB, Sangaria, Caliban,
+- Akka Http, ScalaPB, Sangaria, Caliban
 - Circe
 - Scalike JDBC, Slick
 - Akka Stream, Scio
@@ -44,7 +44,8 @@
 
 #### GCP
 
-- GKE, PUB/SUB, Dataflow, Cloud Functions, BigQuery
+- GKE, PUB/SUB, Dataflow
+- Cloud Functions, BigQuery
 
 ---
 
