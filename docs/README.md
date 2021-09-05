@@ -18,6 +18,14 @@
 - Kubernetes
 - MySQL, MongoDB, Oracle
 
+### 得意なこと
+
+- 検証のためのプロトタイピング
+- ビジネスを実現するための妥当なアーキテクチャ設計、実装
+- パフォーマンスチューニング
+- 保守性、可読性、スケーラビリティが高いシステムの開発
+- スクラムでの開発
+
 ### フレームワーク・その他
 
 #### Scala
@@ -32,9 +40,9 @@
 
 - Spring Boot, MyBatis
 
-#### Others
+#### Other Programming Language
 
-- Python, PHP
+- Python, PHP, Go
 
 #### AWS
 
@@ -46,6 +54,16 @@
 
 - GKE, Pub/Sub, Dataflow
 - Cloud Functions, BigQuery
+
+#### Tools
+
+- Vim, tmux
+- zsh
+- git
+- docker, k8s
+- intellij, vscode
+- wsl2(windows)
+- mac
 
 ---
 
