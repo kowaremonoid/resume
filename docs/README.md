@@ -22,15 +22,21 @@
 
 #### Scala
 
-- Akka Http, ScalaPB, Sangaria, Scalike JDBC, Slick, Akka Stream, Scio, Caliban, ZIO, Cats, Scalaz, Circe
+- Akka Http, ScalaPB, Sangaria, Caliban,
+- Circe
+- Scalike JDBC, Slick
+- Akka Stream, Scio
+- ZIO, Cats, Scalaz
 
 #### Java
 
-- Spring MVC, Spring Boot, MyBatis
+- Spring, MyBatis
 
 #### AWS
 
-- API Gateway, Lambda, SQS, SNS, Cognito, Aurora, Athena, DynamoDB
+- API Gateway, Lambda
+- SQS, SNS, Cognito
+- Aurora, Athena, DynamoDB
 
 #### Python
 
