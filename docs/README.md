@@ -14,7 +14,7 @@
 - GraphQL, grpc, REST での API 開発
 - アジャイル・スクラム開発
 - DDD
-- GCP, AWS の構築・運用
+- GCP, AWS 上での開発
 - Kubernetes
 - MySQL, MongoDB, Oracle
 
@@ -30,7 +30,7 @@
 
 #### Scala
 
-- Akka Http, ScalaPB, Sangaria, Caliban
+- Akka Http, ScalaPB, Sangria, Caliban
 - Circe
 - Scalike JDBC, Slick
 - Akka Stream, Scio
@@ -60,8 +60,8 @@
 - Vim, tmux
 - zsh
 - Git
-- docker, k8s
-- intellij, vscode
+- Docker, K8s
+- Intellij, vscode
 - wsl2(Windows)
 - mac
 
@@ -114,7 +114,7 @@
 - AWS Lamda での開発（Scala）
 - GKE と Kubernetes 上での grpc を使ったマイクロサービスシステムやバッチなどの開発（Scala）
 
-### Biglobe ISP 事業部-> ユーエムイーネッツ(2015/4〜2017/3)
+### ビッグローブ株式会社 -> ユーエムイーネッツ(2015/4〜2017/3)
 
 - **プロジェクト規模**
   - 5〜10 前後のチーム
@@ -129,7 +129,7 @@
   - Python でのバッチ開発
   - DDD, スクラムでの開発
 
-### ユーエムイーネッツ
+### 株式会社ユーエムイーネッツ
 
 **プロジェクト規模**
 
