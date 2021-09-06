@@ -59,10 +59,10 @@
 
 - Vim, tmux
 - zsh
-- git
+- Git
 - docker, k8s
 - intellij, vscode
-- wsl2(windows)
+- wsl2(Windows)
 - mac
 
 ---
