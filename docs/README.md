@@ -24,6 +24,7 @@
 - ビジネスを実現するための妥当なアーキテクチャ設計、実装
 - パフォーマンスチューニング
 - 保守性、可読性、スケーラビリティが高いシステムの開発
+- 関数型言語での開発
 - スクラムでの開発
 
 ### フレームワーク・その他
@@ -33,7 +34,7 @@
 - Akka Http, ScalaPB, Sangria, Caliban
 - Circe
 - Scalike JDBC, Slick
-- Akka Stream, Scio
+- Akka Streams, Scio
 - ZIO, Cats, Scalaz
 
 #### Java
@@ -60,7 +61,7 @@
 - Vim, tmux
 - zsh
 - Git
-- Docker, K8s
+- Docker, Kubernetes
 - Intellij, vscode
 - wsl2(Windows)
 - mac
@@ -98,7 +99,7 @@
 
 - Elastic Search を利用した Python モジュールの改修
 
-### AbemaTV 広告本部(業務委託)（2017/10〜2019/06）
+### AbemaTV 広告本部(業務委託)（2017/04〜2019/06）
 
 **プロジェクト規模**
 
@@ -111,8 +112,8 @@
 **プロジェクト詳細**
 
 - 広告配信システムの仕様策定、設計、開発、チームビルド
-- AWS Lamda での開発（Scala）
-- GKE と Kubernetes 上での grpc を使ったマイクロサービスシステムやバッチなどの開発（Scala）
+- AWS Lamda での広告運用ツールの開発（Scala）
+- GKE Kubernetes 上での grpc を使った広告配信システムのマイクロサービスシステムやバッチなどの開発（Scala）
 
 ### ビッグローブ株式会社 -> ユーエムイーネッツ(2015/4〜2017/3)
 
