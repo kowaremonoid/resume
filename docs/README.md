@@ -8,6 +8,9 @@
 | 生年月日 | 1988/09/04                                             |
 | zenn     | [zenn.dev/kowaremonoid](https://zenn.dev/kowaremonoid) |
 
+## 最近の興味
+Rust
+
 ## スキル
 
 - Scala, Java, Python サーバーサイド設計・開発
