@@ -14,7 +14,7 @@ Rust
 ## スキル
 
 - Scala, Java, Python サーバーサイド設計・開発
-- GraphQL, grpc, REST での API 開発
+- GraphQL, gRPC, REST での API 開発
 - アジャイル・スクラム開発
 - DDD
 - GCP, AWS 上での開発
@@ -58,6 +58,7 @@ Rust
 
 - GKE, Pub/Sub, Dataflow
 - Cloud Functions, BigQuery
+- Cloud Run
 
 #### Tools
 
@@ -73,7 +74,7 @@ Rust
 
 ## 職務経歴詳細
 
-### サイバーエージェント AI 事業本部(業務委託)（2020/10〜現在）
+### サイバーエージェント AI 事業本部(業務委託)（2020/10〜2021/12）
 
 **プロジェクト規模**
 
